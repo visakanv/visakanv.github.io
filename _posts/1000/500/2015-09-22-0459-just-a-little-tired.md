@@ -1,0 +1,35 @@
+---
+id: 9737
+title: 0459 – just a little tired
+date: 2015-09-22T15:04:53+00:00
+author: visakanv
+layout: post
+guid: http://visakanv.com/1000/?p=9737
+permalink: /0459
+readability_ARI:
+  - "5.5"
+readability_CLI:
+  - "6.8"
+readability_LIX:
+  - "24.3"
+word_stats_word_count:
+  - "1005"
+word_stats_keywords:
+  - |
+    s:587:"a:34:{s:6:"really";i:5;s:6:"energy";i:4;s:5:"going";i:7;s:5:"early";i:4;s:6:"better";i:6;s:5:"tired";i:3;s:6:"eating";i:3;s:4:"i'll";i:6;s:5:"drink";i:3;s:4:"just";i:10;s:4:"want";i:3;s:5:"think";i:11;s:7:"because";i:5;s:9:"breakfast";i:3;s:8:"probably";i:4;s:4:"sort";i:3;s:4:"head";i:3;s:12:"instructions";i:4;s:4:"give";i:3;s:7:"precise";i:4;s:10:"definitely";i:3;s:7:"written";i:5;s:6:"things";i:3;s:4:"like";i:6;s:7:"there's";i:3;s:4:"long";i:3;s:4:"time";i:5;s:4:"able";i:3;s:9:"improvise";i:4;s:7:"problem";i:3;s:8:"problems";i:4;s:5:"sleep";i:4;s:7:"serious";i:3;s:4:"deal";i:4;}";
+word_stats_cached:
+  - "1"
+categories:
+  - Word Vomit
+---
+Here&#8217;s something that&#8217;s really quite funny. I wrote 4 word vomits last night with a sense of vigor and energy and alertness. And then I decided that I was going to wake up early– and so I asked my wife to wake us both up early (since she&#8217;s better at getting up than I am, sometimes, for some reason, I&#8217;m not entirely sure how it all works.) Anyway, so we woke up early, and I was rather sleepy and tired all day. So the lesson to revisit is– while I have been eating better, I need to eat better WHILE simultaneously sleeping early and waking earlier. Will be doing that, I&#8217;ll be dashing this vomit off really quickly and then showering and going to bed and waking up tomorrow morning as refreshed as possible. That&#8217;s the hope. I might drink 2 cups of coffee rather than 1 (I don&#8217;t drink coffee every single day, and I just drank one today). But I don&#8217;t want to fall into the trap of having to drink many coffees&#8230; I think that was a struggle I was stuck in a while ago because I was not well-fed, I wasn&#8217;t eating a hearty breakfast. I should probably eat more for breakfast as it is.
+
+Anyway, so let this be a sort of review, because today I experienced my mind as it is when I&#8217;m a little tired. And it&#8217;s just not as effective. It doesn&#8217;t cut as sharp. I remember writing a couple of days about having a sort of good-anxiety, a nervous energy shaking through me through my fingers to the screen. Right now my head is slightly aching in a dull way, it just feels a little heavy. The words are coming out because I&#8217;m just describing my present state, but I don&#8217;t think I could do work in this state. (That&#8217;s an interesting thing to pursue and examine– it&#8217;s probably a function of the precision of instructions that I give myself. The more precise the instructions, the less thinking required to follow them. The mistake I seem to be making with my life (I&#8217;ve definitely, definitely written about this before) is that I&#8217;m not sufficiently precise with the instructions I give myself. I keep saying things like, &#8220;oh, I&#8217;ll figure it out&#8221;. But the question is, how much have I figured out, really? There&#8217;s only so far I can go with improvisation.
+
+I&#8217;ve been thinking about this one for a long time, and have definitely written about it before too– the precise question I remember asking is, how long on average does it take a 10-years-of-smoking smoker to quit smoking, from the moment he first decides that he&#8217;s going to quit? Obviously it&#8217;s going to fall on a bell curve of some kind, I think. What does that look like? And can we discern what the variables are that determine where a person falls along the curve? It&#8217;s unlikely to be purely random, I think. Some people are more able to do things than others, some people have better structures, genetics plays a role, so on and so forth.
+
+So what is it that I need to do to solve my &#8220;I cannot improvise&#8221; problem? I&#8217;ve been talking about it a lot. I&#8217;ve written many many vomits about it; every time I sit down I know that I&#8217;ve written about it before. I feel like I&#8217;m only finally really getting started on my meatbag management problems– sleep, nutrition. And I&#8217;ve been keeping a relatively steady calendar of my activities, but I haven&#8217;t been able to stick to it as religiously as I would like to. But that&#8217;s completely understandable– if I were able to simply start using a calendar rigorously just by deciding to do it, I would have done it a long time ago. There&#8217;s always some set of interconnected, Gordian reasons that keep me from doing something that I think or say I want to do. I realize I had some sort of deep rooted psychological issues with food. I think I probably do with sleep, too, in some way. Have I explored those things properly? I think the food stuff I&#8217;ve written, I think sleep&#8230; I&#8217;ve tried, but it might be worth another shot. And beyond that&#8230; What&#8217;s beyond that? It&#8217;ll just be eating and sleeping well. To be fair to myself, I&#8217;m not HORRIBLY exhausted– I think I used to feel like this practically every single day, and some of these were &#8220;good days&#8221;. Problem solved just by having breakfast. So now it&#8217;s just about fixing the sleep part at the same time. I can se the next local maxima just within reach. I&#8217;m going to head there and grab it. And having grabbed it, I can then sit down and think about what the NEXT maxima outside my immediate radar might be.
+
+What will it be? It&#8217;ll probably be using my newfound mental clarity to plan my time much more rigorously. To give myself much more precise instructions, to take all the guesswork and &#8220;i&#8217;ll figure it outs&#8221; and &#8220;i&#8217;ll improvise&#8221; out of it. The language is problematic. I say &#8220;I&#8217;ll improvise&#8221;, and I THINK I mean that &#8220;I&#8217;ll improvise&#8221;, but it&#8217;s really&#8230; I don&#8217;t want to worry about this now, let&#8217;s not worry about this now, let&#8217;s ignore it until it becomes a serious problem. I only deal with serious problems. There&#8217;s a voice in my head that thinks that, for sure. &#8220;I only deal with serious problems&#8221;. I know how ridiculous this is when I&#8217;m observing it in reality. How silly it is that we try to deal with problems downstream once they become huge issues. But why not just address them upstream? Because it doesn&#8217;t seem like a big deal upstream, maybe. Or because we&#8217;re so caught up firefighting downstream that we&#8217;re tired, we don&#8217;t have the energy to go up.
+
+It&#8217;s all energy management. And I&#8217;m getting better at managing mine. I&#8217;m going to get even better still. I&#8217;m going to bed. G&#8217;night

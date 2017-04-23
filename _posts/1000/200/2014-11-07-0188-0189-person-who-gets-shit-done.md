@@ -1,0 +1,69 @@
+---
+id: 8852
+title: 0188 + 0189 – the kind of person who insists that shit gets done
+date: 2014-11-07T00:57:06+00:00
+author: visakanv
+layout: post
+guid: http://visakanv.com/1000/?p=8852
+permalink: /0188
+readability_ARI:
+  - "6.5"
+readability_CLI:
+  - "6.8"
+readability_LIX:
+  - "25.6"
+word_stats_word_count:
+  - "2154"
+word_stats_keywords:
+  - |
+    s:1081:"a:64:{s:5:"smoke";i:3;s:4:"sure";i:6;s:7:"anymore";i:4;s:6:"longer";i:3;s:4:"just";i:10;s:4:"past";i:4;s:7:"smokers";i:3;s:7:"looking";i:3;s:4:"nice";i:4;s:7:"smoking";i:8;s:4:"part";i:9;s:4:"want";i:4;s:8:"stronger";i:3;s:8:"actually";i:7;s:5:"think";i:12;s:6:"wanted";i:5;s:6:"things";i:15;s:5:"right";i:4;s:4:"idea";i:4;s:8:"happened";i:3;s:7:"because";i:7;s:12:"subconscious";i:3;s:4:"time";i:7;s:6:"really";i:4;s:4:"hard";i:4;s:4:"wake";i:3;s:10:"productive";i:4;s:6:"vomits";i:3;s:5:"brain";i:8;s:4:"well";i:5;s:7:"realize";i:6;s:8:"elephant";i:5;s:6:"trying";i:3;s:4:"like";i:15;s:7:"choices";i:4;s:4:"feel";i:4;s:10:"cigarettes";i:3;s:4:"made";i:5;s:4:"need";i:3;s:4:"mean";i:3;s:5:"years";i:4;s:4:"good";i:4;s:4:"shit";i:6;s:5:"filth";i:4;s:7:"there's";i:3;s:8:"probably";i:3;s:4:"work";i:3;s:5:"start";i:3;s:4:"keep";i:3;s:5:"track";i:3;s:6:"system";i:4;s:5:"stuff";i:3;s:4:"look";i:5;s:9:"deadlines";i:4;s:5:"thing";i:4;s:7:"believe";i:12;s:4:"hobo";i:7;s:9:"important";i:4;s:4:"life";i:5;s:6:"useful";i:3;s:5:"world";i:3;s:4:"care";i:3;s:6:"people";i:4;s:4:"stop";i:3;}";
+word_stats_cached:
+  - "1"
+categories:
+  - Word Vomit
+tags:
+  - procrastination
+---
+I&#8217;ve been smoke free for over 15 to 16 weeks now. I&#8217;m not sure of the exact date anymore. I no longer get cravings just by walking past smokers or looking at smokers. The past couple of days I&#8217;ve recognized it as &#8220;nice smoking weather&#8221;, but the part of me that doesn&#8217;t want to smoke is now stronger, I&#8217;d say, than the part of me that thinks &#8220;would be nice&#8221;.
+
+I&#8217;m not actually sure how to think about this. The common narrative is &#8220;I finally wanted it badly enough&#8221;, or &#8220;I&#8217;m a better person now&#8221;, or &#8220;I am stronger now&#8221;, etc. But all of those things don&#8217;t quite seem right. The truth is I have no particular idea why this latest attempt at smoking cessation is more successful than the previous attempts. And this suggests that whatever happened, it happened subconsciously. Because consciously I&#8217;m doing the same things. It&#8217;s that my subconscious (it seems) has decided for some reason or another that it&#8217;s not worth fighting anymore.
+
+I&#8217;m not sure where the statistic comes from- a quick Google suggests it might have been a Dr. Bruce Lipton from Stanford who said it– this idea that 95% of who we are, what we do, etc are driven by the subconscious mind. This was an idea I intellectually appreciated for a long time, but never fully got around to accepting or embracing in a visceral sense until I started discovering that my body and other parts of me (I refuse to get mystical- I&#8217;m just saying I don&#8217;t understand it) resisting against things I wanted to do.
+
+I wanted to quit smoking and it was really hard. I wanted to wake up early, and it&#8217;s really hard. I wanted to be more productive, write more word vomits, and my body/brain just doesn&#8217;t listen to me. Previously I had modelled the saboteur as someone who is inside my head, who&#8217;s more intelligent than I am on average (meaning he&#8217;s at peak intelligence 24/7), more well-rehearsed, etc.
+
+Now I realize that that model is kind of flawed. The saboteur- if I want to use such an villianistic narrative- isn&#8217;t just half of me, but most of me. Heath brothers got it right- I&#8217;m the mahout, and the &#8216;saboteur&#8217; is the elephant. I&#8217;m trying to move this big, clumsy elephant that obstinately goes wherever it wants to go, almost entirely independent of my thoughts. For the most part, it feels like i&#8217;m in control, because I only choose to go where the elephant has already decided it wants to go. That&#8217;s the well worn path. If I pick options from the range of choices that the elephant is comfortable with, there is no cognitive dissonance. I feel like I have freedom and free will, and the elephant happily does what it likes. Do I want more cigarettes or less? Should I procrastinate on X or on Y? These are things that feel like choices to me, but the real choices that actually matter were already made for me in advance. [1]
+
+Since I stopped smoking I&#8217;ve been noticing all other kinds of interesting things. I realize that I need to exercise regularly. I mean, I&#8217;ve written about this for years. Jesus. Nothing is new. Reading my old vomits make me realize that I &#8220;already know everything&#8221;- that is, my 5% conscious mind is capable of accessing and reaccessing truth over and over again. But what do I do with that? What happens after the meeting is over, after the commitments are made, etc? I weasel out, I sneak off, I waffle and shirk. Why? I&#8217;m not sure if I can provide a good answer just by thinking about it aloud, because my subconscious shit and filth will try to hide it.
+
+I&#8217;m in essence trying to sandblast my brain of all the shit and filth that has accumulated over the years. And there is a lot of it. Every time I think I&#8217;ve made progress I realize there&#8217;s a lot more to do. I can actually probably set the next 2-3 years aside to purely just clear filth and nothing else. I no longer feel like there&#8217;s much point in me trying to contribute to civil society or broader discussions or anything like that. A lot of those things feel like escapism. Things that distract me from the much harder work of cleaning my own house.
+
+I&#8217;ve been waking up before 8am for about a week now, I think. I try to sleep before 11pm every night. Last night was an anomaly, and I slept at 130am. I was worried, I thought I&#8217;d wake up 10am or later. But I woke up at 730, right before my alarm went off.
+
+The following has happened hundreds of times in the past- I wake up early, and then I decide to give myself a few more minutes lying in bed. I fall back asleep, and I start the day disappointed, realizing that I can&#8217;t trust myself with anything. I say yes to all sorts of things, and then I fumble and flounder to try and keep track of all of them.
+
+I never really devised a working system that worked well for me. I&#8217;m finally starting to sort of cobble one together. One is a bullet journal system, which is pen+paper. This works well because writing things down over and over again forces ME to pay attention to them, to keep track of them. I also use Evernote to keep track of stuff, and I use my blogs to pour my brain out so that I can look back on it later and reflect on it. I use Asana for work, but for the longest time I wasn&#8217;t actually using it properly. Most of my tasks didn&#8217;t have deadlines on them, and I would move the deadlines around, I&#8217;d assign too many tasks to myself in a single day, fail to do any of them, then shift all of them to the next day, wash rinse repeat. I set aside some time recently to go through all of it all at once- I took about 2 hours yesterday to give deadlines to everything. So now I can just focus on getting 4 things done per day. And I can split that up, and focus on doing one thing at a time. I think that will help.
+
+The best thing about quitting smoking for me is that it made me start to believe that it&#8217;s possible for me to get out of all my funk, and to clean out the shit from my brain and to then rewire my brain so that the shit and filth is no longer a part of the system. It&#8217;s like&#8230; I had become a derelict hobo of sorts. Once in a while, I would take this hobo out for a haircut and a bath and a shower and stuff like that, and the hobo would look all nice and fresh and clean for a few days. But pretty soon the hobo would back into drugs and alcohol, he wouldn&#8217;t be able to hold down a job, he&#8217;d go back to his hobo ways. The haircut was nice to see, and feels good, but that isn&#8217;t what the hobo actually needed.
+
+What does the hobo actually need? Fuck if I know, man. The most important thing is probably a context in which he can see himself differently. And work was probably the first thing in my life that enabled that. My colleagues and boss allowed me to see myself in a different light. That maybe I might be able to build and develop the habits and routines that would make me useful and productive.
+
+I&#8217;m sure I&#8217;ve written many times before about how a part of me always blew off the idea of being useful and productive at all, because there was nobody worth being useful and productive for&#8230; but that was largely a product of my context + me rationalizing something I had become addicted to. It was my brain doing what brains do best- inventing an explanation that&#8217;s least painful. I smoke because life is fleeting and difficult and we&#8217;re all going to die anyway. Sure, but all of those things are still true, and I&#8217;m not smoking anymore. Why aren&#8217;t I smoking? Life is still fleeting and difficult and we&#8217;re all going to die, but now when I think of cigarettes I think of brief stimuli followed by coughing, a dulling of the brain (this really happens- everything starts getting greyer, like somebody turned the contrast down in the world), burnt and chapped lips, and a generally unpleasant experience. Life without cigarettes is brighter, fresher, happier.
+
+I&#8217;ve always known this, c&#8217;mon. Why am I talking about it like it&#8217;s new, important or different or something that matters? The real question is- why do I care about a brighter / fresher / happier world when i didn&#8217;t before? Something changed, what? I think I began to believe in myself a little bit more, as a consequence of other people believing in me. I think it might have been as simple as that, and as disturbingly outside-of-myself as that.
+
+I think that&#8217;s a huge part of what people don&#8217;t talk about when talking about procrastination. I last wrote about having a fire under your ass, but even that&#8217;s just one facet of it. You&#8217;re already having a good day when all you&#8217;re looking for is a fire under your ass. The hard question is what do you do when you&#8217;re not having a good day. When you&#8217;re not even looking. When you can&#8217;t even see. When you don&#8217;t believe in yourself, and you strongly suspect that you&#8217;re doomed to a life of always reaching, always failing, always falling behind, always missing commitments, always disappointing people (including yourself, even if you tell yourself that you aren&#8217;t disappointed- there&#8217;s a part of you that has hopes and dreams and that&#8217;s the part of you that grows quiet, grows soft and hides in the background, like a child that&#8217;s abused, or a child of parents who mean well but are just plain irresponsble&#8230; you start becoming small, you stop believing in yourself.
+
+I don&#8217;t mean to turn this into some sort of big motivational shpiel, all I&#8217;m saying is to look to your cynicism or look to your devil-may-careism or however you wanna think about it (I&#8217;m assuming if you&#8217;re reading my vomits you must relate to me in some way&#8230; or whatever i don&#8217;t care) and ask yourself why you&#8217;re like that. What were the conditions that led you to carrying yourself that way, thinking of yourself that way. We&#8217;re almost all products of our environments to a greater degree than we realize. I definitely am.
+
+The past couple of years I&#8217;ve been realizing all these things that plague me- how I am limited, set back, etc. And how important it is to realize that things don&#8217;t actually have to be this way. If I can stop smoking and stop feeling like I need a cigarette- that&#8217;s the part that smokers worry about, I think- that they&#8217;ll always want a cigarette (because I don&#8217;t think I do anymore, 95-99% of the time) then I have to believe that I can quit my guilt. I can build into my brain a system that takes care of business, that keeps to deadlines and appointments, that gets things done. I have to believe. And I have to let go of the old me. I have to let go of the apologies and the disappointments and all of that stuff. I just have to get shit done, a little bit at a time, over and over and over again. But first and foremost I have to believe.
+
+I believe. I believe it is possible. I believe that I am the one who is here to save me from my bullshit. I believe that I will stand up and face the light. I believe that I will pull myself out of this. I believe that a year from now I will look back and smile sadly at how stuck I was, at how hard I struggled, how I floundered and struggled when everything I needed was right around me- and how all of that is okay, and how I&#8217;m fixing it. I&#8217;m coming back. I&#8217;m getting stronger. I&#8217;m getting more powerful. I&#8217;m expanding my circle of control.
+
+I&#8217;m becoming the kind of person who insists that shit gets done.
+
+&#8212;
+
+Notes:
+
+[1] Kinda like what would-be revolutionaries like to say about capitalists and the media and the bankers and people who supposedly run the world. The important choices are all already made for you, and it&#8217;s not in your favor. You&#8217;re given the illusion of choice over things that are relatively inconsequential, and you amuse yourself to death, while suffering. Bread and circuses. [Bread and circuses.](http://en.wikipedia.org/wiki/Bread_and_circuses)

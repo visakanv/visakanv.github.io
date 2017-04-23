@@ -1,0 +1,36 @@
+---
+id: 10288
+title: 0610 – disregard current affairs, focus on priorities
+date: 2016-11-12T05:04:49+00:00
+author: visakanv
+layout: post
+guid: http://visakanv.com/1000/?p=10288
+permalink: /0610
+readability_ARI:
+  - "6.8"
+readability_CLI:
+  - "6.8"
+readability_LIX:
+  - "25.8"
+word_stats_word_count:
+  - "1173"
+word_stats_keywords:
+  - 's:510:"a:30:{s:5:"going";i:6;s:8:"probably";i:5;s:4:"time";i:9;s:4:"just";i:7;s:4:"make";i:4;s:10:"difference";i:3;s:6:"little";i:3;s:9:"important";i:6;s:4:"know";i:3;s:4:"like";i:7;s:4:"real";i:4;s:4:"yeah";i:3;s:6:"people";i:5;s:5:"thing";i:5;s:8:"question";i:3;s:7:"friends";i:5;s:6:"person";i:4;s:5:"think";i:7;s:5:"spend";i:3;s:6:"things";i:7;s:4:"need";i:3;s:8:"facebook";i:3;s:4:"want";i:4;s:5:"sense";i:3;s:6:"really";i:3;s:4:"work";i:3;s:6:"virtue";i:6;s:10:"signalling";i:6;s:4:"game";i:4;s:6:"status";i:4;}";'
+word_stats_cached:
+  - "1"
+categories:
+  - Word Vomit
+---
+So Donald Trump is going to be the next President of the United States. Social media is blowing up about it, even in Singapore. What a big deal it’s going to be, why it’s bad, why it’s maybe not so bad, so on and so forth. I’ve already spent probably a day’s worth of time distributed over a few days just reading about this guy. Probably more than a day. And that’s an annoying thought. It means that I’ve given away control of my mind to forces beyond myself. And what am I going to do about it? How am I going to personally make a difference to the Government of the United States? I’m much less than a drop in the bucket.
+
+I’ve tried to internalize this point several times but I still haven’t fully gotten around to it. One interpretation is that I’m just lazy and indulgent. Another part of the equation I should keep in mind is the fact that humans are probably wired to obsess about current affairs. To our ancestors living in small tribes, little hunting parties, every single bit of information about everybody else in the group was highly important. But that is no longer the case. We’re swimming in far too much information that’s not actually directly relevant or impactful to us. Who’s going to write the article about how it’s so much more important to just focus on the difference we can make, to ourselves? (Somebody’s probably written it. I know Gary Vee mentioned something like it at his speech at Inbound, and I already know the arguments against a statement like that – how naive, how ignorant, how privileged, way to disregard the real struggles and frustrations of marginalized peoples).
+
+Yeah, there are real people with real problems. How much of my time and energy should I devote to trying to make a difference to them? There’s this thing going around about Teenage magazine and how someone submitted a question for Dear Kelly, about what to do after being raped by a friend. And the advice column replied that she should regret having lied to her mother about where she went, and be thankful that her rapist wore a condom so that she’s unlikely to get pregnant or any STDs. Of course this is slut-shaming, focuses on the victim and so on. A friend of mine shared the news, and there was a guy asking questions like “isn’t it tedious to have to worry about consent all the time”, and I left a comment in support of my friends’ POV – that consent, while tedious, is still more important than one person’s pleasure. I do sincerely believe that. And I do think I helped make my friends feel a little better, knowing that there’s someone in their corner. But how much time should I spend doing things like that, and what is the opportunity cost of that? That’s the real question I need to ask myself. What could I be doing with my time instead, and what should I be doing? Is it a higher priority for me than finishing my writing project ASAP? I need to be clear about this. It’s not as simple as “how selfish should I be”, because in the long run one of the best things a person can do for their friends is to be as self-actualized as possible. I truly believe that.
+
+I spend too much time on reddit and Facebook. This is a fact. Why do I spend any time on there at all? I find myself thinking vague thoughts like “looking for inspiration”, “catching up with news”, “catching up with my friends” and so on. But what is the point of all of that? Okay, a part of it is just wired into me as something that I tend to want. I think it makes far more sense to meet people 1-1 and devote my time and energy entirely to them in those interactions. I think it makes more sense to organize dinner parties and have people over. Spending time discussing things on Facebook doesn’t really change the world all that much, as the latest US elections have shown. 
+
+Perhaps reality is still far more complex than I’m making it out to be and I’m just clutching at straws here, circling around what I think is the most important thing. And the most important thing is that I need to define what my own most important thing is, and then prioritize that above everything else, and do that as well as I can. I think a person can reasonably work their ass off for about 4 hours a day and then go on to do other things. I think as long as I DO work my ass off for 4 hours on my top priority each day, I can then go on to have fun doing things like defend my friends on Facebook – if that’s what I want. Virtue-signalling all day every day. (Deciding to forgo virtue-signalling is just a sort of 2nd-order derivative to virtue-signalling, for virtue-signallers with more refined tastes.)
+
+There is no escaping the game of virtue-signalling. The question is whether the signalling is cheap or costly. I was thinking the other day that life is all about accumulating your personal favorite class of prestige or status. Status in the form of signifiers is hollow, status in the form of human relationships is somehow more deep and true. People who are genuinely motivated by things like honor (the way Taleb talks about it) seem to be somehow more righteous, more good. But isn’t that also more of the same thing, in a sense? Yeah, yeah, I’m an idiot for suggesting that, failing to kapish the problem. I don’t know. We’re all a bunch of monkeys playing status games, some a little more refined than others, some supposdly more meaningful than others, my game is bette or more interesting than your game.
+
+I recognize that I cannot opt out. I recognize that trying to opt out is just another way of playing it. So I have to figure out what’s the game that I really, really want to play. And I’m tired of first-order virtue-signalling on social media because that stuff seems hollow. I want to be more useful. The best way to be more useful is to fundamentally improve myself in a way that legitimately challenges and inspires the people around me. To do that I have to challenge and inspire myself. To do that I have to do the work towards my own goals, and demonstrate that I am happy, fulfilled, satisfied, grateful and so on. I think Marcus Aurelius probably had that stuff pretty well figured out, and he’s a reasonable person to follow about these things.

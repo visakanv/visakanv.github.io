@@ -1,0 +1,34 @@
+---
+id: 9534
+title: 0406 – reflecting on habits
+date: 2015-07-14T17:18:06+00:00
+author: visakanv
+layout: post
+guid: http://visakanv.com/1000/?p=9534
+permalink: /0406
+readability_ARI:
+  - "6.2"
+readability_CLI:
+  - "7.3"
+readability_LIX:
+  - "26.2"
+word_stats_word_count:
+  - "1032"
+word_stats_keywords:
+  - 's:459:"a:27:{s:7:"minutes";i:5;s:4:"mind";i:4;s:5:"going";i:3;s:6:"habits";i:7;s:10:"experience";i:3;s:6:"really";i:5;s:8:"thinking";i:3;s:4:"easy";i:4;s:12:"explanations";i:3;s:4:"work";i:4;s:8:"meditate";i:3;s:4:"able";i:3;s:4:"make";i:4;s:6:"things";i:8;s:7:"pushups";i:3;s:4:"word";i:6;s:5:"vomit";i:5;s:4:"good";i:6;s:6:"little";i:5;s:4:"tend";i:3;s:4:"like";i:8;s:7:"reasons";i:3;s:4:"want";i:4;s:4:"know";i:3;s:8:"progress";i:4;s:4:"sure";i:3;s:4:"need";i:3;}";'
+word_stats_cached:
+  - "1"
+categories:
+  - Word Vomit
+---
+I decided to take 5 minutes to &#8216;meditate&#8217; and calm my mind before writing this. I was going to start without knowing where I was going to start, so it seemed prudent to pause and breathe. And what surfaced to my mind was habits. I&#8217;ve been re-reading Power of Habit lately, and it&#8217;s been an interesting experience. Everything is familiar and yet slightly different. It&#8217;s always interesting to read my notes in the margins, too. I find myself looking with fresh eyes at ideas about how we act without really thinking, and how easy it is to rationalize explanations on autopilot. That&#8217;s where my mind has been lately. Thinking about my autopilot rationalizations, and how the only real thing I can rely on is evidence of work done.
+
+I&#8217;ve talked about wanting to meditate regularly, exercise regularly, eat healthily. But I&#8217;ve never been able to make any of those habits stick. I&#8217;ve downloaded an app called Rewire, and it gives me a daily display of all of these habits on the home screen of my phone. I can&#8217;t avoid it. I tell myself, if I do all of those things (work review, meditate for 5 minutes, do 5 pushups, do a word vomit, write a word vomit), it must&#8217;ve been a good non-zero day. I pick 5 minutes and 5 pushups because those are really easy things to do. I imagine as I get better I may find myself doing more– meditating for 10, 20 minutes, doing 10, 20 pushups. But for now I&#8217;m committing to doing a little bit everyday. I&#8217;ve established that I chronically underestimate the power of doing a little bit everyday. I always try to squeeze everything into dramatic bursts– which tend to fail far more often than they succeed, and tend to be incredibly painful, stressful experiences. A part of me must be addicted to that drama, to that intensity of feeling. It&#8217;s like the panic Tim Urban describes that chronically late people experience. 
+
+Should I be exploring my reasons for doing these little things? At a meta level, I really just want to be able to create and sustain habits that are good for me. I cannot rely on conscious decision-making, that&#8217;s a really limited resource. I should externalize these decisions. When I was younger maybe I thought something along the lines of, I hate routine, I hate structure, they constrain you. I&#8217;ve established that good routines are liberating, they add to your freedom rather than subtract from it. I know these things intellectually. I don&#8217;t do very much about them, though, unless there are stakes attached. And even then the jury&#8217;s still out– I don&#8217;t have a lot of evidence that I am able to sustain things. I slipped on a word vomit a few days ago. I can list out a bunch of reasons, probably. I&#8217;m good at constructing reasons and explanations. But that&#8217;s a part of my brain I&#8217;d like to quiet. There is very little utility in constructing these explanations. It&#8217;s far more important for me to change my approach and preempt for failure. 
+
+I&#8217;ve been trying to list out all of my habits on workflowy. I have habits from when I wake up to when I go to bed, and almost all of these habits have been developed non-deliberately. I sort of just fell into them over time, into whatever was easy and convenient. And it&#8217;s no shocker to realize that the easy and convenient paths in life tend to be suboptimal– they don&#8217;t lead to good outcomes. Good outcomes are relatively harder, and we have to be deliberate about them. Nobody randomly walks up a mountain– they make a plan, they prepare, they rehearse, they set a target, they work towards it, they measure their progress so that they know for sure whether or not they can do something about it. For me it seems like the measuring of progress is often something I slip on. I have a bunch of writings in a stable place now about all the things I want and all the things I don&#8217;t want. I have some plans, although they&#8217;re probably a little too big-picture and not enough day-to-day. So I&#8217;m hoping Rewire helps me with my day-to-day. I want to make sure that I meditate for 5 minutes every day, because I know that I&#8217;m a calmer person who makes better decisions when I take the time to refocus myself.
+
+What is next for me? I need to sleep early, too. I&#8217;ve been neglecting that. I&#8217;ve been focusing all my energy on making sure that I ship my daily work updates and that I do a word vomit every day. That&#8217;s progress, even if it&#8217;s sometimes slow and messy. I have to keep doing this until I completely internalize it and don&#8217;t slip on it. And I have to prepare in advance for the inevitable failure that comes after some sort of mildly catastrophic event– after I fall terribly sick, for example. I need a script for getting back on track after major slips, instead of starting from absolute scratch– letting all my marbles spill out and roll in the distant recesses of my mind. I need a system for quickly, firmly, confidently gathering them back together and then building with them, building from them.
+
+If I continue doing one word vomit a day, I will be done in 595 days. That&#8217;s February 2017. I would like to be done by 2016 if possible. But that&#8217;s me getting too excited, me thinking way ahead of myself. All I can really focus on is this immediate moment, and what I&#8217;m doing right now to advance my dreams, to make progress on my plans. And ultimately everything is an illusion, nothing matters, etc, etc. But as long as I am experiencing life, I would like to experience it on my terms, doing things I enjoy. I would like to go to bed each night feeling like I did something, like it was a day well spent. Doing word vomits helps with that. For now, at least. And so I&#8217;m going to keep doing them. Every day.
